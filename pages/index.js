@@ -67,6 +67,16 @@ export default function Home() {
             GitHub
           </a>
         </div>
+        <p
+          style={{
+            fontSize: "30px",
+            fontFamily: "sans-serif",
+            color: "#14213D",
+            textDecoration: "none",
+          }}
+        >
+          Por favor eu só quero uma oportunidade de emprego eu imploro 🥺
+        </p>
       </div>
     </div>
   );
