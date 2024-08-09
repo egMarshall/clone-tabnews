@@ -5,7 +5,7 @@ Implementação do https://www.tabnews.com.br para o https://curso.dev
 nvm install - irá instalar a versão sugerida deste projeto.
 
 ## Arquitetura e Pastas
-
+```
 📦 root
 ┣ 📂 pages
 ┃ ┗ 📜 index.js
@@ -20,7 +20,7 @@ nvm install - irá instalar a versão sugerida deste projeto.
 ┃ ┃ ┣ 📂 staging
 ┃ ┃ ┣ 📂 production
 ┣ 📂 tests
-
+```
 ## Explicação
 
 ### Pages
